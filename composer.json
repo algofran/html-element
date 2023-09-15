@@ -1,5 +1,5 @@
 {
-    "name": "yetii/html-element",
+    "name": "algofran/html-element",
     "description": "Generates HTML (elements) based on a schematic",
     "type": "library",
     "license": "MIT",
